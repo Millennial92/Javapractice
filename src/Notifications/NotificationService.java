@@ -1,3 +1,5 @@
+package Notifications;
+
 import Notifications.Notification;
 import Notifications.NotificationFactory;
 
