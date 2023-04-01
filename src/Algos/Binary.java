@@ -19,7 +19,7 @@ public class Binary {
     public static void main(String[]args)
     {
         Binary ob = new Binary();
-        int arr[] = {2,3,4,10,40};
+        int []arr = {2,3,4,10,40};
         int n = arr.length;
         int x = 10;
         int result=ob.binarySearch(arr, 0, n-1, x);
