@@ -1,4 +1,4 @@
-package Notifications;
+package DesignPatterns.Factory;
 
 public class SMSNotification implements Notification{
     @Override

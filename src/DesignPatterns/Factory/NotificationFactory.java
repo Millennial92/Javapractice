@@ -1,4 +1,4 @@
-package Notifications;
+package DesignPatterns.Factory;
 
 public class NotificationFactory {
     public Notification createNotification(String channel)

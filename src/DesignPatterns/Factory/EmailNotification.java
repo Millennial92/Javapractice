@@ -1,4 +1,4 @@
-package Notifications;
+package DesignPatterns.Factory;
 
 public class EmailNotification implements Notification {
     public void notifyUser()

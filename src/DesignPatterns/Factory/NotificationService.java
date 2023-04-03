@@ -1,9 +1,4 @@
-package Notifications;
-
-import Notifications.Notification;
-import Notifications.NotificationFactory;
-
-import java.util.*;
+package DesignPatterns.Factory;
 
 public class NotificationService{
 
