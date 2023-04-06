@@ -1,6 +1,6 @@
-package Practice;
+package Practice.AnimalExample;
 
-public class Parrot implements Animal{
+public class Parrot implements Animal {
     String featherColor;
 
     public String getFeatherColor() {

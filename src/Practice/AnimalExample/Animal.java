@@ -1,5 +1,5 @@
-package Practice;
-import java.util.*;
+package Practice.AnimalExample;
+
 public interface Animal {
     public String getName();
     public String getSpecies();

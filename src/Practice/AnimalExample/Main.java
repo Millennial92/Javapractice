@@ -1,4 +1,4 @@
-package Practice;
+package Practice.AnimalExample;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,12 +13,12 @@ public class Main {
         listOfAnimals.add(cat);
         listOfAnimals.add(parrot);
 
-        listAnimalsWithDeatils_using_lambda(listOfAnimals);
+        listAnimalsWithDetails_using_lambda(listOfAnimals);
 
 
     }
 
-    private static void listAnimalsWithDeatils_using_lambda(List<Animal> listOfAnimals) {
+    private static void listAnimalsWithDetails_using_lambda(List<Animal> listOfAnimals) {
         listOfAnimals.forEach(animal -> {
             System.out.println(animal.getName() + " is of " + animal.getSpecies() +
                     " species having "+ animal.getLegs() + " legs.");
