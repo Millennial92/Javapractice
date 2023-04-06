@@ -1,4 +1,4 @@
-package Practice.SOLIDprinciples.LSP.Solution;
+package Practice.SOLIDprinciples.LSP.SolutionForLSP;
 
 
 

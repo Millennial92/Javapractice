@@ -10,5 +10,4 @@ public abstract class SocialMedia {
 
     public abstract void groupVideoCall(String users);
 
-
 }

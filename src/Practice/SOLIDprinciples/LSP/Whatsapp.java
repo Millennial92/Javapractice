@@ -10,7 +10,7 @@ public class Whatsapp extends SocialMedia {
     @Override
     public void publishPost(Object post) {
 
-        // 3. Not a serivce provided by Whatsapp, hence it violates LSP.
+        // 3. Not a service provided by Whatsapp, hence it violates LSP.
 
     }
 

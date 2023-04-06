@@ -23,4 +23,5 @@ public class Instagram extends SocialMedia {
      // 3. Not a service provided by Instagram, hence it violates LSP.
 
     }
+
 }
