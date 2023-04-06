@@ -2,8 +2,10 @@ package Practice.SOLIDprinciples.DIP;
 
 
 
-// 5. Here, we use BankCard as the interface in order to loosely couple ShoppingMall to DebitCard/CreditCard.
+// 5. Here, we use BankCard as the interface in order to loosely couple ShoppingMall to different cards( classes ).
 // This maintains the Dependency Inversion Principle.
+
+
 
 public class ShoppingMall {
 
