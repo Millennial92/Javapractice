@@ -2,7 +2,7 @@ package Practice.SOLIDprinciples.OCP;
 
 
 
-// 2. Use of OPEN-CLOSED PRINCIPLE.
+// 2. Use of OPEN and CLOSE PRINCIPLE.
 
 
 
@@ -16,4 +16,5 @@ public class EmailNotificationService implements NotificationService {
     public void sendTransactionReport(String medium) {
 
     }
+
 }
