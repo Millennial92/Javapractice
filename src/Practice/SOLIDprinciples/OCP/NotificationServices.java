@@ -12,4 +12,4 @@ public interface NotificationServices {
 
     public void sendTransactionReport(String medium);
 
-}
+ }

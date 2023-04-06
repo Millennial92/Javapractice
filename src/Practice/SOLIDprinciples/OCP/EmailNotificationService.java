@@ -2,7 +2,7 @@ package Practice.SOLIDprinciples.OCP;
 
 
 
-// 2. Use of OPEN and CLOSE PRINCIPLE.
+// 2. Use of OPEN-CLOSED PRINCIPLE.
 
 
 
