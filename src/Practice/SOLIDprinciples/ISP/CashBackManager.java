@@ -7,7 +7,6 @@ package Practice.SOLIDprinciples.ISP;
 
 
 public interface CashBackManager {
-
     public void getCashBackAsCreditBalance();
 
 }
