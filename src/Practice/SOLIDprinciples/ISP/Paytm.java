@@ -14,5 +14,5 @@ public class Paytm implements UPIPayments {
 
         // 4. The service of CashBack is not provided by Paytm.
 
-
+    
     }

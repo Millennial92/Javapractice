@@ -14,5 +14,5 @@ public class PhonePay implements UPIPayments {
 
         // 4. The service of CashBack is not provided by PhonePay.
 
-
+    
     }

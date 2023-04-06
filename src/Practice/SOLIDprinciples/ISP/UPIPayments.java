@@ -13,5 +13,4 @@ public interface UPIPayments {
 
     public void getScratchCard();
 
-
 }
