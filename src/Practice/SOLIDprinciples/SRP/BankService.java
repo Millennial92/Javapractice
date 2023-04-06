@@ -2,8 +2,8 @@ package Practice.SOLIDprinciples.SRP;
 
 
 
-// 1.  The class BankService formally held methods of Printing Service, Loan Service, Notification Service....
-//.....Hence, we have made three more classes in order to implement the SINGLE RESPONSIBILITY PRINCIPLE.
+// 1.  The class BankService formally held methods of Printing Service, Loan Service, and Notification Service.
+// Hence, we have made three more classes in order to implement the SINGLE RESPONSIBILITY PRINCIPLE.
 
 
 public class BankService {
