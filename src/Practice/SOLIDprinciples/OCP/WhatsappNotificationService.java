@@ -6,7 +6,7 @@ package Practice.SOLIDprinciples.OCP;
 
 
 
-public class WhatsappNotificationService implements NotificationService {
+public class WhatsappNotificationService implements NotificationServices {
     @Override
     public void sendOTP(String medium) {
 

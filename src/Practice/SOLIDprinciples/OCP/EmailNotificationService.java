@@ -6,7 +6,7 @@ package Practice.SOLIDprinciples.OCP;
 
 
 
-public class EmailNotificationService implements NotificationService {
+public class EmailNotificationService implements NotificationServices {
     @Override
     public void sendOTP(String medium) {
 

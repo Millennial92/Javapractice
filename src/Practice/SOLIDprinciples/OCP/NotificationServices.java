@@ -6,7 +6,7 @@ package Practice.SOLIDprinciples.OCP;
 // Therefore, we made a new interface to be implemented by different other classes, and thereby fulfilling OCP.
 
 
-public interface NotificationService {
+public interface NotificationServices {
 
     public void sendOTP(String medium);
 
