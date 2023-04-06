@@ -15,8 +15,7 @@ public class NotificationService {
 
         }
 
-        if(medium.equals("Mobile"))
-        {
+        if(medium.equals("Mobile")) {
 
 
         }
