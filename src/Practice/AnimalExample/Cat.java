@@ -1,5 +1,7 @@
 package Practice.AnimalExample;
 
+import Practice.AnimalExample.Animal;
+
 public class Cat implements Animal {
 String furColor;
 
