@@ -30,6 +30,22 @@ public class ListExample {
         list1.removeIf(n -> ( n % 3 == 0));
         System.out.println(list1);
 
+        list1.add(97484488);
+        list1.add(94343543);
+        list1.add(2445353);
+        list1.add(686684785);
+        list1.add(45675589);
+        System.out.println(list1);
+
+        ArrayList<Integer> list2 = new ArrayList<Integer>();
+        list2.add(94343543);
+        list2.add(2445353);
+        list2.add(9434353);
+        list2.add(2445353);
+        list2.add(686784785);
+
+        list1.removeAll(list2);
+        System.out.println(list1);
 
 
     }
