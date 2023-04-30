@@ -1,0 +1,20 @@
+package Practice.SOLIDPrinciples.OCP;
+
+
+
+// 2. Use of OPEN-CLOSED and CLOSE PRINCIPLE.
+
+
+
+public class MobileNotificationService implements NotificationServices {
+    @Override
+    public void sendOTP(String medium) {
+
+    }
+
+    @Override
+    public void sendTransactionReport(String medium) {
+
+    }
+
+}

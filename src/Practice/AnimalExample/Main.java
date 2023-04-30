@@ -9,7 +9,7 @@ import java.util.List;
 
         Animal cat = new Cat();
         Animal parrot = new Parrot();
-        List<Animal> listOfAnimals = new ArrayList<>();
+        ArrayList<Animal> listOfAnimals = new ArrayList<>();
         listOfAnimals.add(cat);
         listOfAnimals.add(parrot);
 
